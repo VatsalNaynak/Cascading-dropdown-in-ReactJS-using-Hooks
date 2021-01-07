@@ -42,7 +42,7 @@ function App() {
       <div style={{ width: 400, marginBottom: 20 }}>
         <b>City</b>
         <Select
-          placeholder="Select mainCity"
+          placeholder="Select City"
           value={mainCity}
           options={data}
           onChange={handleMainCityChange}
