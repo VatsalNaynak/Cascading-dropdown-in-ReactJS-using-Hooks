@@ -1,0 +1,32 @@
+[
+  {
+    "region": "Mumbai",
+    "region_id": "421672",
+    "url": "google.co.in",
+    "cities": [
+      {
+        "name": "Mulund",
+        "code": "421652"
+      },
+      {
+        "name": "Bhandup",
+        "code": "400052"
+      }
+    ]
+  },
+  {
+    "region": "Thane",
+    "region_id": "421672",
+    "url": "google.ae",
+    "cities": [
+      {
+        "name": "Teen haat naka",
+        "code": "412131"
+      },
+      {
+        "name": "Ramchandra Nagar",
+        "code": "411122"
+      }
+    ]
+  }
+]
